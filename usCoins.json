@@ -1,0 +1,129 @@
+{
+	"Cent": {
+		"composition": "2.5% Cu",
+		"balance": "Zn	Cupro-Nickel",
+		"weight": {
+			"grams": 500
+		},
+		"diameter": {
+			"in": 0.750,
+			"mm": 19.05
+		},
+		"thickness": {
+			"mm": 1.52
+		},
+		"edge": {
+			"edge": "plain"
+		}
+	},
+
+
+	"Nickel": {
+		"composition": "25% Ni",
+		"balance": "Cu	Cupro-Nickel",
+		"weight": {
+			"grams": 5.000
+		},
+		"diameter": {
+			"in": 0.835,
+			"mm": 21.21
+		},
+		"thickness": {
+			"mm": 1.95
+		},
+		"edge": {
+			"edge": "plain"
+		}
+	},
+	"Dime": {
+		"composition": "8.33% Ni",
+		"balance": "Cu	Cupro-Nickel",
+		"weight": {
+			"grams": 268
+		},
+		"diameter": {
+			"in": 0.705,
+			"mm": 17.91
+		},
+		"thickness": {
+			"mm": 1.35
+		},
+		"edge": {
+			"edge": "reeded"
+		},
+		"reeds": 118
+	},
+
+	"Quarter": {
+		"composition": "8.33% Ni",
+		"balance": "Cu	Cupro-Nickel",
+		"weight": {
+			"grams": 670
+		},
+		"diameter": {
+			"in": 0.955,
+			"mm": 24.26
+		},
+		"thickness": {
+			"mm": 1.75
+		},
+		"edge": {
+			"edge": "reeded"
+		},
+		"reeds": 119
+	},
+
+
+	"Half Dollar": {
+		"composition": "8.33% Ni",
+		"balance": "Cu	Manganese-Brass",
+		"weight": {
+			"grams": 340
+		},
+		"diameter": {
+			"in": 1.205,
+			"mm": 30.61
+		},
+		"thickness": {
+			"mm": 2.15
+		},
+		"edge": {
+			"edge": "reeded"
+		},
+		"reeds": 150
+	},
+
+	"Presidential $1": {
+		"composition": ["88.5% Cu", "6% Zn", "3.5% Mn", "2% Ni	Manganese-Brass"],
+		"weight": {
+			"grams": 8.1
+		},
+		"diameter": {
+			"in": 1.043,
+			"mm": 26.49
+		},
+		"thickness": {
+			"mm": 2.00
+		},
+		"edge": {
+			"edge": "edge-lettering"
+		}
+	},
+
+
+
+	"Native American $1 Coin": {
+		"composition": ["88.5% Cu", "6% Zn", "3.5% Mn", "2% Ni"],
+		"weight": "8.1 g",
+		"diameter": {
+			"in": 1.043,
+			"mm": 26.49
+		},
+		"thickness": {
+			"mm": 2.00
+		},
+		"edge": {
+			"edge": "edge-lettering"
+		}
+	}
+}
